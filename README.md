@@ -6,15 +6,15 @@ Aquest projecte forma part del  meu Treball de final de Grau, que consisteix en 
 
 FunforFlags/
 ├── Admin/
-│ └── DockerComprovador/ → Contenidor que comprova si les flags són correctes
+│      └── DockerComprovador/ → Contenidor que comprova si les flags són correctes
 ├── Pere/
-│ └── DockerFunFlags/ → Contenidor vulnerable
-│ ├── secret/ → Fitxers amagats, notes i imatges
-│ ├── src/ → Codi PHP, DB SQLite i web vulnerable
-│ └── videos/ → Pista audiovisual
+│      └── DockerFunFlags/ → Contenidor vulnerable
+│      ├── secret/ → Fitxers amagats, notes i imatges
+│      ├── src/ → Codi PHP, DB SQLite i web vulnerable
+│      └── videos/ → Pista audiovisual
 ├── root/
-│ ├── comprova-usuaris.sh → Script per escalada de privilegis
-│ └── crontab → Configuració de tasca programada
+│      ├── comprova-usuaris.sh → Script per escalada de privilegis
+│      └── crontab → Configuració de tasca programada
 
 ## ⚙️ Tecnologies utilitzades en aquet treball
 
