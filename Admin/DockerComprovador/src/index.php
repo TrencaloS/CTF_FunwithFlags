@@ -31,7 +31,7 @@ if(isset(
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>🚩 Fun for Flags 🚩</title>
+  <title>🚩 Fun with Flags 🚩</title>
   <style>
     :root { --bg: #1e1e2f; --fg: #e0def4; --primary: #89b4fa; --accent: #f38ba8; }
     * { box-sizing: border-box; margin: 0; padding: 0; }
