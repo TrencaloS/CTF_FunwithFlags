@@ -4,7 +4,7 @@ Aquest projecte forma part del  meu Treball de final de Grau, que consisteix en 
 
 ## 📁 Estructura del projecte
 
-FunforFlags/
+FunWithFlags/
 ├── Admin/
 │      └── DockerComprovador/ → Contenidor que comprova si les flags són correctes
 ├── Pere/
