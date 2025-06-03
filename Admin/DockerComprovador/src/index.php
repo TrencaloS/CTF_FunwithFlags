@@ -31,7 +31,7 @@ if(isset(
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>🚩 Fun with Flags 🚩</title>
+  <title>🚩 Fun With Flags 🚩</title>
   <style>
     :root { --bg: #1e1e2f; --fg: #e0def4; --primary: #89b4fa; --accent: #f38ba8; }
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -55,7 +55,7 @@ if(isset(
 </head>
 <body>
   <div class="container">
-    <h1>🚩 Fun for Flags 🚩</h1>
+    <h1>🚩 Fun With Flags 🚩</h1>
     <form method="post">
       <?php foreach($flags as $clau => $valor): ?>
         <label for="<?php echo $clau; ?>"><?php echo 'Flag'.substr($clau,-1); ?></label>
